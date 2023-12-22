@@ -1,0 +1,7 @@
+
+datasource:
+  url: jdbc:h2:mem:balancedb
+  driver-class-name: org.h2.Driver
+  username: sa
+  password: password
+
